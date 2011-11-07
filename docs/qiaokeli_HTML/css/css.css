@@ -1,0 +1,74 @@
+/* CSS Document */
+
+body{ width:100%; margin:0px auto; padding:0}
+.top_nav{ width:970px; margin:0px auto; padding-top:20px; height:100px;}
+.logo{ width:325px; margin:20px; float:left}
+.right_nav{ float:right; margin:10px auto; padding:0; width:580px;font-size:12px; font-family:"宋体", Arial; color:#7f7f7f; text-align:right}
+.sreach_top{ width:465px; float:right; text-align:right; margin:5px auto;}
+.sreach_input{ width:380px; border:1px solid #859c1c; height:28px; float:left}
+.sreach_botton{ background:url(../images/sreach_botton.jpg) no-repeat; border:0px; width:80px; height:32px; float:left}
+.nav{ width:100%; background:url(../images/navbg.jpg) repeat-x;}
+.menu{ width:970px; margin:0px auto; padding:0; height:49px; overflow:hidden;}
+.menu ul{ list-style:none; margin:0px auto 0 0; padding:0;}
+.menu li{ float:left;}
+.menu_two{ width:100%;background:url(../images/navbg.jpg) repeat-x bottom; height:34px;}
+.menu_two_cont{ width:970px; margin:0px auto; padding:0}
+.menu_two_cont ul{ list-style:none; margin:0px auto 0 0; padding:0}
+.menu_two_cont li{ float:left; width:33%; font-size:12px; line-height:34px; text-align:center}
+.top3_ad{ width:970px; margin:10px auto; padding:0}
+.tab01{ width:970px; margin:0px auto; padding:0; clear:both; height:255px;}
+.ad_765x250{ width:765px; height:250px; float:left}
+.ad_765x250 img{ width:765px; height:250px;}
+.xsph{ width:195px; float:right;}
+.xsph_tl{ background:url(../images/right_tl_25.jpg) no-repeat; width:194px; margin:0px auto; padding:0; height:24px; text-align:center; line-height:24px; font-weight:bold; color:#ffffff; font-size:13px;}
+.xsph_cont{ background:#fdfff6; border:1px solid #e0e6cb; border-top:none; float:left; width:193px;}
+.tgms{ width:175px; text-align:center; margin:10px auto; padding:0; display:block;}
+.tgms_txt{ display:block; width:175px; text-align:left; margin:0px auto; padding:0; font-size:13px; line-height:24px; color:#414141;}
+.tgms_bot{ width:175px; margin:0px auto; padding-top:3px; padding-bottom:5px; text-align:center; display:block}
+.tab02{ width:970px; margin:0px auto; clear:both;}
+.leftsider{ width:192px; float:left}
+.middlesider{ width:555px; float:left; margin-left:15px; padding-bottom:10px;}
+.rightsider{ width:195px; float:right;}
+
+/*产品分类*/
+
+.cpfl{ width:190px; height:auto; float:left}
+.cpfl dl{ margin:0px  auto 0 0; padding:0; float:left;}
+.cpfl dt{ margin:10px auto 10px 0; padding:0;width:170px; background:#fdfff6; border:1px solid #ecf2da; height:40px; display:block; padding:5px 10px 5px 10px; float:left;}
+.cpfl dd{ font-size:12px; line-height:30px; color:#361e04; border-bottom:1px solid #e5e4e0; margin:0px auto  0 0; padding:0; background:url(../images/fenlei.jpg) no-repeat; background-position:70px 1px;float:left; width:120px; padding-left:35px; padding-right:35px; height:30px; display:block}
+
+
+/*精品推荐*/
+.jptj_tl{ border-bottom:3px solid #7c911a; position:relative; height:35px; width:514px; margin-left:20px!important; margin:10px; padding:0; float:left;}
+.jptj_tl_txt{ width:109px; height:37px; background:url(../images/tl_txt.jpg) no-repeat; position:absolute; top:1px; left:0px; font-size:16px; font-weight:bold; color:#ffffff; text-align:center; line-height:37px;}	
+.zhutitu{width:514px; margin-left:20px!important; margin:10px; padding:0; float:left;}
+.chanplb{ width:100%; margin:0px auto; padding:0; float:left; height: auto;}
+.chanplb ul{ list-style:none; margin:0px auto; padding:0; float:left;}
+.chanplb li{ float:left; margin-top:5px; margin-bottom:5px; margin-left:20px!important; margin-right:10px!important; margin-left:10px; margin-right:18px; display:block; width:150px;}
+.chanplb img{ border:1px solid #f4efe6; float:left}
+.chanpin_txt{ width:140px; margin:5px auto; padding:0; display:block; font-size:12px; color:#736250; line-height:18px; float:left; height:36px; clear:both;}
+.chanpin_price{ width:140px; margin:0px auto; padding:0; display:block; font-size:13px; font-weight:bold; color:#e83e49; float:left;}
+.more{ width:37px; height:7px; position:absolute; right:6px; bottom:10px;}
+.qklgs{ width:195px; background:#fdfff6; border-top:2px solid #859d1c;border-bottom:2px solid #859d1c; margin:10px auto;}
+.qklgs_tl{ width:100%; text-align:center; background:url(../images/qklgs.jpg) no-repeat center; text-align:center; font-size:13px; font-weight:bold; color:#e83e49; padding-top:15px; padding-bottom:15px;}
+.qklgs_img{ width:100%; text-align:center; margin:5px auto;}
+.qklgs_txt{ text-indent:24px; font-size:12px; line-height:24px; color:#736250; width:80%; white-space:normal; word-break:break-all; margin:10px auto; padding:0;}
+.xsph_cont01 ul{ list-style:none; margin:0px auto 0 0; padding:0;}
+.xsph_cont01 li{ color:#736250; font-size:12px; line-height:28px; padding-left:15px; clear:both;}
+.xsph_cont01 img{ float:left; border:1px solid #f4f0e7;}
+.xsph_cont01 li span{ float:left; display:block; width:90px;padding-left:5px;line-height:20px;}
+.yuanjia{ font-size:12px; color:#736250;}
+.msjia{ font-size:12px; font-weight:bold; color:#3e83e49; }
+.xsph_cont01{background:#fdfff6; border:1px solid #e0e6cb; border-top:none; float:left; width:193px; padding-top:10px;}
+.xsph01{ width:195px; float:right; margin:5px auto;}
+.hekatu{ width:193px; margin:5px auto; padding:0; float:right;}
+.help{ background:#fdfff6; border:1px solid #ecf2da; padding-top:20px; padding-bottom:20px; margin:10px auto; width:920px; padding-left:50px; clear:both; height:80px; margin-bottom:0px;}
+.help dl{ width:160px; float:left; margin:0px auto 0 0; padding:0;}
+.help dt{ font-size:14px; font-weight:bold; color:#000; line-height:30px; margin:0px auto 0 0; padding-left:15px;}
+.help dd{ margin:0px auto 0 0; padding-left:15px; font-size:13px; color:#736250; background:url(../images/icon.jpg) no-repeat left 7px; line-height:24px; height:24px;}
+.foot_logo{ width:193px; height:80px; float:right}
+.link_yq{ color:#ffffff; font-size:12px; text-align:center; line-height:30px; background:#93ac1f; height:30px; margin:0px auto; padding:0; clear:both; width:970px;}
+.fwbz{ width:970px; margin:20px auto; padding:0; text-align:center}
+.coyright{ text-align:center; width:970px; font-size:12px; color:#787878;}
+.xglj{ width:970px; margin:10px auto; padding:0; text-align:center}
+.xglj img{ margin:5px;}
