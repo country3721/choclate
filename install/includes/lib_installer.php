@@ -531,6 +531,7 @@ function copy_files($source, $target)
         //if (!mkdir(rtrim($target, '/'), 0777))
         if (!mkdir($target, 0777))
         {
+        	echo $target;
             $err->add($_LANG['cannt_mk_dir']);
             return false;
         }
